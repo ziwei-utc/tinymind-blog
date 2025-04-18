@@ -8,6 +8,7 @@ date: 2024-10-24T13:23:07.765Z
 
 
 
+
 [workshop] 
 - "Writing Better R Code" https://nrennie.rbind.io/training-better-r-code/slides.html
 [tools]
@@ -18,3 +19,7 @@ date: 2024-10-24T13:23:07.765Z
 
 [Book]
 - https://www.mjandrews.org/book/ddsr/
+
+[Usefull package for medical data]
+- Descriptive statistics https://cran.r-project.org/web/packages/arsenal/vignettes/tableby.html#modify-how-missing-values-are-displayed
+- Table and model summary https://www.danieldsjoberg.com/gtsummary/
