@@ -3,7 +3,8 @@ title: Workshop
 date: 2025-05-01T14:34:57.902Z
 ---
 
-[Baysian] Using R for Bayesian Spatial and Spatio-Temporal Health Modeling
+
+- [Baysian] Using R for Bayesian Spatial and Spatio-Temporal Health Modeling
 A virtual offering 
 June 3rd - 6th 2025
 COURSE CONTENT
