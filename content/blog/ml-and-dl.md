@@ -4,6 +4,7 @@ date: 2025-05-20T21:28:05.227Z
 ---
 
 
+
 https://m2dsupsdlclass.github.io/lectures-labs/
 
 - MIT course
@@ -11,3 +12,6 @@ https://m2dsupsdlclass.github.io/lectures-labs/
 
 - CMU 
     - http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml
+
+- Buffalo
+    - https://cedar.buffalo.edu/~srihari/CSE574/
