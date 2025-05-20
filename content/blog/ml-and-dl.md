@@ -5,6 +5,7 @@ date: 2025-05-20T21:28:05.227Z
 
 
 
+
 https://m2dsupsdlclass.github.io/lectures-labs/
 
 - MIT course
@@ -15,3 +16,6 @@ https://m2dsupsdlclass.github.io/lectures-labs/
 
 - Buffalo
     - https://cedar.buffalo.edu/~srihari/CSE574/
+
+- Purdue
+    - https://engineering.purdue.edu/DeepLearn/
