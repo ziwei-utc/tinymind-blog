@@ -13,7 +13,7 @@ date: 2026-01-08T10:47:49.398Z
      - Ted talks
      - gapminder.org
 
-# chapter 3
+# chapter 3 
 
 1. The recorded raw data on the number of sexual partners that our survey participants report tells us something about...
 
