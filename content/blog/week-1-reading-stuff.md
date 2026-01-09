@@ -8,6 +8,7 @@ date: 2026-01-08T14:12:34.414Z
 
 
 
+
 # personal 
 
 - 2026 年，如果只选一个习惯，只要做到每天稳定执行，就会最大程度上改变我的人生！这个习惯是什么？
@@ -273,3 +274,7 @@ AI能否整体改写数学的研究路径？Jared Duker Lichtman：
 和而不同、亲而有间，是关系的留白，更是相互成全和守望的智慧。
 
 亲爱的你晚安
+
+# 健身
+
+![1000010130.png](https://raw.githubusercontent.com/ziwei-utc/tinymind-blog/main/assets/images/2026-01-09/1767987927388.png)
