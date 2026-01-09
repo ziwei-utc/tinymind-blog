@@ -277,4 +277,4 @@ AI能否整体改写数学的研究路径？Jared Duker Lichtman：
 
 # 健身
 
-![1000010130.png](https://raw.githubusercontent.com/ziwei-utc/tinymind-blog/main/assets/images/2026-01-09/1767987927388.png)
+![1000010130.png](https://raw.githubusercontent.com/ziwei-utc/tinymind-blog/main/assets/images/2026-01-09/1767987972728.png)
