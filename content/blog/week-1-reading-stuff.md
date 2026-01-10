@@ -12,6 +12,7 @@ date: 2026-01-08T14:12:34.414Z
 
 
 
+
 # personal 
 
 - 2026 年，如果只选一个习惯，只要做到每天稳定执行，就会最大程度上改变我的人生！这个习惯是什么？
@@ -342,3 +343,7 @@ Starts Here】新版美国饮食指南，大家都看到了吧。原文是英文
 一整个好好吃饭、少吃预制菜、爱你老己的大集合。
 
 hhs.gov/press-room/fac…
+
+# 一本概率书
+
+![1000010187.png](https://raw.githubusercontent.com/ziwei-utc/tinymind-blog/main/assets/images/2026-01-10/1768053386251.png)
