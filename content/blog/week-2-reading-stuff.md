@@ -5,6 +5,9 @@ date: 2026-01-12T15:55:52.082Z
 
 
 
+# 工具
+
+南方科技大学的研究团队联合发布了一款强大的数据分析智能体：Automated Statistician (AutoSTAT)。 无需任何代码，无需人类交互，AutoSTAT 即可自主生成上百页详细的数据分析报告。项目现已完全开源，并提供免费部署试用，诚邀社区一同交流合作，共建 AutoSTAT 生态！ ● GitHub 仓库:https://autostat.cc/repo● Demo试用(Hugging Face):https://autostat.cc/demo● 项目文档:https://autostat.cc/docs● 报告样例:https://autostat.cc/examples
 
 
 
