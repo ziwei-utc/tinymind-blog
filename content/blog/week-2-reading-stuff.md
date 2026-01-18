@@ -4,6 +4,7 @@ date: 2026-01-12T15:55:52.082Z
 ---
 
 
+
 # AI paper
 
 Ilya Sutskever 曾断言，只要读懂那 30 篇奠基论文，就能掌握人工智能 90% 的精髓。但面对枯燥的数学公式，大多数人很难将其转化为可运行的代码。
@@ -13,6 +14,8 @@ Ilya Sutskever 曾断言，只要读懂那 30 篇奠基论文，就能掌握人�
 每个实现都不依赖深度学习框架，只用 NumPy 从零构建，配合 Jupyter Notebook 交互式学习，还自带合成数据可以直接运行。
 
 GitHub：github.com/pageman/sutske…
+
+https://github.com/pageman/sutskever-30-implementations
 
 涵盖从 RNN、LSTM 到 Transformer、ResNet 的核心架构演进，包括注意力机制、残差连接、图神经网络等关键技术，还有 VAE、神经图灵机、CTC 损失等高级主题。
 
