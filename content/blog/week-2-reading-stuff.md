@@ -4,6 +4,23 @@ date: 2026-01-12T15:55:52.082Z
 ---
 
 
+# stat projects
+
+学 AI 最怕“纸上谈兵”，看完了算法原理，真要动手写代码时却两眼一抹黑，找不到合适的练手素材。
+
+在 GitHub 上挖掘到了 AI-Project-Gallery 这个项目，简直是为实战党准备的宝藏库。
+
+收录了 30 多个高质量的 AI 实战案例，覆盖面极广，从经典的房价预测、疾病分类，到热门的 Gemini 聊天机器人、文档生成器应有尽有。
+
+GitHub：github.com/KalyanM45/AI-P…
+
+https://github.com/KalyanM45/AI-Project-Gallery
+
+特别标注了大量“End-to-End”端到端项目，提供了从数据处理、模型训练到部署的完整流程，而不仅仅是零散的代码片段。
+
+除了 Python 源码，还包含 Power BI 数据分析和 Web 爬虫案例，能帮我们全方位提升数据处理能力。
+
+非常适合正在寻找毕设灵感、或者想要丰富 GitHub 作品集的朋友，拿来练手再合适不过。
 
 # AI paper
 
