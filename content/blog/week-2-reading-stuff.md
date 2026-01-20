@@ -5,6 +5,7 @@ date: 2026-01-12T15:55:52.082Z
 
 
 
+
 # stat projects
 
 学 AI 最怕“纸上谈兵”，看完了算法原理，真要动手写代码时却两眼一抹黑，找不到合适的练手素材。
@@ -52,7 +53,8 @@ https://www.dealmoon.com/guide/955938
 
 - email: ziweinmsu@gmail.com
 - PW: Feitian@2D
-
+- 中国护照原件
+![image.png](https://raw.githubusercontent.com/ziwei-utc/tinymind-blog/main/assets/images/2026-01-20/1768924979991.png)
 
 
 
