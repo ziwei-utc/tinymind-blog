@@ -4,6 +4,7 @@ date: 2026-01-12T15:55:52.082Z
 ---
 
 
+
 # stat projects
 
 学 AI 最怕“纸上谈兵”，看完了算法原理，真要动手写代码时却两眼一抹黑，找不到合适的练手素材。
@@ -44,6 +45,15 @@ https://github.com/pageman/sutskever-30-implementations
 # 护照更新
 
 https://www.dealmoon.com/guide/955938
+
+- 中华人民共和国驻美利坚合众国大使馆
+
+- 邮寄/到馆办理地址: Visa Section, Embassy of China, 2201 Wisconsin Avenue, NW, Suite 110 Washington D.C. 20007
+
+- email: ziweinmsu@gmail.com
+- PW: Feitian@2D
+
+
 
 
 # 工具
