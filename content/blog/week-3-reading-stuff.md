@@ -3,6 +3,13 @@ title: Week 3 - reading stuff
 date: 2026-01-21T03:07:32.455Z
 ---
 
+# 交大大模型
+
+https://github.com/Lordog/dive-into-llms
+
+
+
+
 # 身体
 
 人体的 24 小时自然规律
