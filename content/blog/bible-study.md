@@ -4,6 +4,7 @@ date: 2026-01-25T14:36:48.080Z
 ---
 
 
+
 ## Sunday Morning bible study
 
 ### 歌罗西书
@@ -16,4 +17,4 @@ date: 2026-01-25T14:36:48.080Z
 
 - 1：15 - 23 （基督颂歌）
     - 物质与灵性的二分法 （諾斯底主義）
-
+    - By Himself，through Him and For Him
