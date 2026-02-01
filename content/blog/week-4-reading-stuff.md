@@ -4,6 +4,13 @@ date: 2026-01-26T11:41:45.792Z
 ---
 
 
+# R studio with ai 
+
+![1000010573.png](https://raw.githubusercontent.com/ziwei-utc/tinymind-blog/main/assets/images/2026-02-01/1769918146034.png)
+
+https://mp.weixin.qq.com/s?chksm=f9d174e0cea6fdf6cade6d10a8a9a7dcc56e0d37ca282b24d30f8801bb6914a041fff007f9cf&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1769918048_1&req_id=1769901639899048&mid=2247489695&sn=01ed699ca7a9c1c471381c1b5c6966af&idx=1&__biz=MzUyMjE1NzMyOA%3D%3D&scene=169&subscene=200&sessionid=1769918049&flutter_pos=5&clicktime=1769918065&enterid=1769918065&finder_biz_enter_id=5&jumppath=1123_1769918020497%2C1003_1769918046659%2C1001_1769918048862%2C50094_1769918050210&jumppathdepth=4&ascene=56&fasttmpl_type=0&fasttmpl_fullversion=8107864-en_US-zip&fasttmpl_flag=0&realreporttime=1769918065628&devicetype=android-36&version=28004243&nettype=WIFI&lang=en&session_us=gh_1a9d54663579&countrycode=US&exportkey=n_ChQIAhIQiqz8zYXMD0WPuNchCGt8SxLZAQIE97dBBAEAAAAAAEyHGPQh2twAAAAOpnltbLcz9gKNyK89dVj0f98v3Q9vkJ%2FYxlB5Cnoi%2BmS%2BQncZvkKlo%2F853%2FPR8obT1kZ3OCQYH4Cyls%2FFDZZKELS7eLBPDIPD1C%2F6brh6PBKPxRX6MyYZnZf%2B29EQIduw3sBAmuxzlLSVQRubml1IRHYjlvhT6pFqhL6vPO85FpNgJ5qKwmL1WyE7Q%2BwCb894DK1PEWqPqld7vibcxDKEYkiNQZI5nduz90JF0W5ljdsPhQQHOA7Mw3MpU4NlGT6RPrg%3D&pass_ticket=BWGkQq1WsaK1tDGJc4RzBsPbpS0T9pGIr5Rh5u4VovL%2Fch1Utoi35bhdRMIyc4mE&wx_header=3
+
+
 # AI 课程
 
 https://mp.weixin.qq.com/s?__biz=MzA4MjYwMTc5Nw==&mid=2649008619&idx=1&sn=c529bc5e17c8d994bdf4387c71c97982&chksm=86fe18f700bc1d7c6ad25c766dd94cb76274d85a65c519e5a59c5d25a8523d8bc6fc487ed2dc&xtrack=1&req_id=1769748598072292&scene=90&subscene=93&sessionid=1769751621&flutter_pos=0&clicktime=1769751627&enterid=1769751627&finder_biz_enter_id=4&ranksessionid=1769748597&jumppath=1123_1769748619510%2C1003_1769748639911%2C1001_1769751619818%2C50094_1769751622304&jumppathdepth=4&ascene=56&fasttmpl_type=0&fasttmpl_fullversion=8107363-en_US-zip&fasttmpl_flag=0&realreporttime=1769751627955#rd
