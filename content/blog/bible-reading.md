@@ -3,6 +3,9 @@ title: Bible reading
 date: 2026-01-06T10:29:54.197Z
 ---
 
+
+![1000010646.png](https://raw.githubusercontent.com/ziwei-utc/tinymind-blog/main/assets/images/2026-02-05/1770290390125.png)
+
 # 诗篇 23 
 
 诗篇 23:1-6 CUNPSS-神
