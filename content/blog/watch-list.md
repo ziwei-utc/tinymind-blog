@@ -4,6 +4,11 @@ date: 2026-01-10T03:00:05.011Z
 ---
 
 
+# Transformer short course
+
+https://www.deeplearning.ai/short-courses/how-transformer-llms-work/?utm_campaign=handsonllm-launch&utm_medium=partner
+
+![image.png](https://raw.githubusercontent.com/ziwei-utc/tinymind-blog/main/assets/images/2026-03-04/1772642406813.png)
 
 # Important paper
 
